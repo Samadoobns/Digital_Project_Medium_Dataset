@@ -10,3 +10,6 @@
 [submodule "ML_GridSearch_with_sklearn"]
 	path = ML_GridSearch_with_sklearn
 	url = https://github.com/Samadoobns/Digital-project-third-version.git
+[submodule "EnhancedModel"]
+	path = EnhancedModel
+	url = https://github.com/Samadoobns/Digital_Projet_fourth_version.git
