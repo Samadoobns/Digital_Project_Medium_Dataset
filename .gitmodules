@@ -1,3 +1,9 @@
 [submodule "ML_with_sklearn"]
 	path = ML_with_sklearn
 	url = https://github.com/Samadoobns/Digital-project-second-version.git
+[submodule "DataVisualization"]
+	path = DataVisualization
+	url = https://github.com/Samadoobns/Digital-project-second-version.git
+[submodule "DataVisualization_"]
+	path = DataVisualization_
+	url = https://github.com/Samadoobns/DPMD_Data_Visualization.git
