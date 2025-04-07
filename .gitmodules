@@ -13,3 +13,6 @@
 [submodule "EnhancedModel"]
 	path = EnhancedModel
 	url = https://github.com/Samadoobns/Digital_Projet_fourth_version.git
+[submodule "DL_for_Medium_DS"]
+	path = DL_for_Medium_DS
+	url = https://github.com/Samadoobns/Digital_Project_DL_Medium.git
