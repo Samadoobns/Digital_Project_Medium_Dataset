@@ -7,3 +7,6 @@
 [submodule "DataVisualization_"]
 	path = DataVisualization_
 	url = https://github.com/Samadoobns/DPMD_Data_Visualization.git
+[submodule "ML_GridSearch_with_sklearn"]
+	path = ML_GridSearch_with_sklearn
+	url = https://github.com/Samadoobns/Digital-project-third-version.git
